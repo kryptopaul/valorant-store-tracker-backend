@@ -1,0 +1,19 @@
+{
+  "name": "valorant-store-isu",
+  "version": "1.0.0",
+  "description": "Valorant Store Client showing 4 daily offers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-cookiejar-support": "^4.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "tough-cookie": "^4.0.0"
+  }
+}
